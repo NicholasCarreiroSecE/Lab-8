@@ -1,0 +1,3 @@
+I have chosen a football API that tracks the top goalscorers in the British Premier League. The reason I chose this API and found it interesting is when simply looking for top goalscorers on current popular sports apps and sites quite a few clicks to find your intended 
+information. Not to mention having it cluttered with countless amounts of other statistic for the players and team. This API allows me to quickly check whop is the current top goalscorere in the bpl and make sports bets on things such as who will win man of the match in 
+certain games, who will win the ballon d'Or in real time.
